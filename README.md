@@ -2,7 +2,7 @@
 
 ℹ️ For detailed information about the contest, check out [devadvent/readme](https://github.com/devadvent/readme/)
 
-# Dev Advent Calendar 🎅 Puzzle 9 - Encoded Message 🔐
+# Dev Advent Calendar 🎅 Puzzle 9 - Strange Message 📜
 
 Santa received a strange looking file in his mailbox. It looks like it could be a hidden message.
 
